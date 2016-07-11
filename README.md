@@ -1,3 +1,12 @@
+Submission
+
+```r
+https://github.com/elisendavila/RepData_PeerAssessment1-1
+
+6d813347b2b62684a903f5d8f04965d6026c747c
+```
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
@@ -159,10 +168,4 @@ in GitHub by doing the following:
 
 3. You will see a list of commits that you have made to this repository. The most recent commit is at the very top. If this represents the version of the files you want to submit, then just click the "copy to clipboard" button on the right hand side that should appear when you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you submit your assignment. If you don't want to use the most recent commit, then go down and find the commit you want and copy the SHA-1 hash.
 
-A valid submission will look something like 
 
-```r
-https://github.com/elisendavila/RepData_PeerAssessment1-1
-
-6d813347b2b62684a903f5d8f04965d6026c747c
-```
