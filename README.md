@@ -1,10 +1,3 @@
-Submission
-
-```r
-https://github.com/elisendavila/RepData_PeerAssessment1-1
-
-6d813347b2b62684a903f5d8f04965d6026c747c
-```
 
 Instrucciones
 
